@@ -1,7 +1,7 @@
 // Code Practice: Slime World
-// Name: 
-// Date: 
-
+// Name: Cody Karigaca
+// Date: 2/16/2025
+  
 let config = {
     type: Phaser.AUTO,
     render: {
